@@ -62,7 +62,7 @@ Menu yang tersedia: tambah, tampilkan semua, cari, hapus, edit IPK, dan keluar.
 
 Screenshot berikut menunjukkan proses menambahkan mahasiswa dan menampilkan daftar:
 
-![Screenshot hasil menjalankan aplikasi](docs/sim-mahasiswa.png)
+![Screenshot hasil menjalankan aplikasi](docs/hasil-biodata-adrian-ronald-daga.png)
 
 ## Menjalankan pengujian
 
