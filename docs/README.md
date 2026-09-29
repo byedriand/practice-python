@@ -1,3 +1,5 @@
 # Dokumentasi
 
-Simpan screenshot hasil menjalankan aplikasi di folder ini, misalnya dengan nama `sim-mahasiswa.png`.
+Screenshot hasil menjalankan aplikasi: [sim-mahasiswa.png](sim-mahasiswa.png).
+
+Gambar menampilkan contoh penambahan mahasiswa dan tabel daftar mahasiswa.

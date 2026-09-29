@@ -58,6 +58,12 @@ python -m src.main
 
 Menu yang tersedia: tambah, tampilkan semua, cari, hapus, edit IPK, dan keluar.
 
+## Bukti Hasil
+
+Screenshot berikut menunjukkan proses menambahkan mahasiswa dan menampilkan daftar:
+
+![Screenshot hasil menjalankan aplikasi](docs/sim-mahasiswa.png)
+
 ## Menjalankan pengujian
 
 ```bash
