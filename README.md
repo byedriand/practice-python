@@ -93,15 +93,14 @@ git add .
 git commit -m "chore: inisiasi proyek SIM Mahasiswa"
 ```
 
-Setelah membuat repositori kosong `sim-mahasiswa` di akun GitHub, hubungkan URL repositori dan push:
+Repositori GitHub proyek: [byedriand/practice-python](https://github.com/byedriand/practice-python).
+Remote `origin` sudah terhubung ke repositori tersebut. Untuk mengirim commit berikutnya:
 
 ```bash
-git remote add origin https://github.com/USERNAME/sim-mahasiswa.git
-git branch -M main
-git push -u origin main
+git push
 ```
 
-Ganti `USERNAME` dengan nama akun GitHub. Jangan tambahkan README saat membuat repositori GitHub karena berkas README sudah tersedia secara lokal.
+Jangan tambahkan README saat membuat repositori GitHub karena berkas README sudah tersedia secara lokal.
 
 ## Setup checklist
 
@@ -111,6 +110,6 @@ Ganti `USERNAME` dengan nama akun GitHub. Jangan tambahkan README saat membuat r
 - [x] Program berjalan tanpa error
 - [x] Unit test lulus
 - [x] Repositori Git diinisiasi
-- [ ] Remote GitHub terhubung dan push berhasil
+- [x] Remote GitHub terhubung dan push berhasil
 - [x] README lengkap
 - [x] Minimal tiga commit bermakna tersedia
