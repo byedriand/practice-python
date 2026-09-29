@@ -105,12 +105,12 @@ Ganti `USERNAME` dengan nama akun GitHub. Jangan tambahkan README saat membuat r
 
 ## Setup checklist
 
-- [ ] Python 3.10+ terinstal
-- [ ] Virtual environment dibuat dan diaktifkan
-- [ ] Paket terpasang dari `requirements.txt`
-- [ ] Program berjalan tanpa error
-- [ ] Unit test lulus
-- [ ] Repositori Git diinisiasi
+- [x] Python 3.10+ terinstal
+- [x] Virtual environment dibuat dan diaktifkan
+- [x] Paket terpasang dari `requirements.txt`
+- [x] Program berjalan tanpa error
+- [x] Unit test lulus
+- [x] Repositori Git diinisiasi
 - [ ] Remote GitHub terhubung dan push berhasil
-- [ ] README lengkap
-- [ ] Minimal tiga commit bermakna tersedia
+- [x] README lengkap
+- [x] Minimal tiga commit bermakna tersedia
