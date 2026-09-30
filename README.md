@@ -60,9 +60,13 @@ Menu yang tersedia: tambah, tampilkan semua, cari, hapus, edit IPK, dan keluar.
 
 ## Bukti Hasil
 
-Screenshot berikut menunjukkan proses menambahkan mahasiswa dan menampilkan daftar:
+1. Menambahkan data mahasiswa:
 
-![Screenshot hasil menjalankan aplikasi](docs/hasil-biodata-adrian-ronald-daga.png)
+![Proses menambahkan data mahasiswa](docs/hasil-tambah-mahasiswa.png)
+
+2. Mencari mahasiswa berdasarkan NIM:
+
+![Hasil pencarian mahasiswa berdasarkan NIM](docs/hasil-biodata-adrian-ronald-daga.png)
 
 ## Menjalankan pengujian
 
