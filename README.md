@@ -11,12 +11,12 @@ Aplikasi console berbasis Python untuk mengelola data mahasiswa Program Studi Si
 
 ## Fitur
 
-- Menambahkan mahasiswa dengan NIM, nama, program studi, angkatan, dan IPK.
+- Menambahkan mahasiswa dengan NPM, nama, program studi, angkatan, dan IPK.
 - Menampilkan seluruh data mahasiswa.
-- Mencari mahasiswa berdasarkan NIM.
-- Menghapus mahasiswa berdasarkan NIM.
+- Mencari mahasiswa berdasarkan NPM.
+- Menghapus mahasiswa berdasarkan NPM.
 - Memperbarui IPK dengan validasi rentang 0.0-4.0.
-- Menolak NIM duplikat dan data tidak valid.
+- Menolak NPM duplikat dan data tidak valid.
 
 ## Prasyarat
 
@@ -28,7 +28,8 @@ Aplikasi console berbasis Python untuk mengelola data mahasiswa Program Studi Si
 
 Jalankan perintah dari direktori `sim-mahasiswa`:
 
-```powershell
+```powershellnim
+
 py -m venv .venv
 .\.venv\Scripts\Activate.ps1
 python -m pip install --upgrade pip
@@ -64,9 +65,9 @@ Menu yang tersedia: tambah, tampilkan semua, cari, hapus, edit IPK, dan keluar.
 
 ![Proses menambahkan data mahasiswa](docs/hasil-tambah-mahasiswa.png)
 
-2. Mencari mahasiswa berdasarkan NIM:
+2. Mencari mahasiswa berdasarkan NPM:
 
-![Hasil pencarian mahasiswa berdasarkan NIM](docs/hasil-biodata-adrian-ronald-daga.png)
+![Hasil pencarian mahasiswa berdasarkan NPM](docs/hasil-biodata-adrian-ronald-daga.png)
 
 ## Menjalankan pengujian
 
@@ -74,7 +75,7 @@ Menu yang tersedia: tambah, tampilkan semua, cari, hapus, edit IPK, dan keluar.
 pytest tests/ -v
 ```
 
-Pengujian mencakup validasi NIM dan IPK, nama panjang, operasi tambah/cari/hapus, NIM duplikat, serta perubahan IPK.
+Pengujian mencakup validasi NPM dan IPK, nama panjang, operasi tambah/cari/hapus, NPM duplikat, serta perubahan IPK.
 
 ## Struktur proyek
 
