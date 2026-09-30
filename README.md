@@ -5,7 +5,7 @@ Aplikasi console berbasis Python untuk mengelola data mahasiswa Program Studi Si
 ## Identitas
 
 - Nama: Adrian Ronald Daga
-- NIM: 20241320011
+- NpM: 20241320011
 - Kelas: A1
 - Program studi: Sistem Informasi
 
